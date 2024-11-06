@@ -1,0 +1,58 @@
+.contenedor{
+    display: grid;
+    grid-template-rows: 15% 65% 40% 10%;
+    width: 100%;
+    gap: 10px;
+}
+.azul{
+    background-color:rgb(15, 15, 99);
+    color: white;
+    text-align: center;
+    line-height: 2.5;
+    padding: 10px;
+    
+}
+ .segundo{
+    
+    display: grid;
+    grid-template-columns: 30% 68%;
+    gap: 20px;
+       
+}
+    .gris{
+        background-color: #a9a9a9;
+        color: black;
+        text-align: center;
+      
+        
+    }
+    .azul2{
+        display: grid;
+        grid-template-rows: 1 1;
+        background-color: #0f1187;
+        padding: 10px;
+        padding-top: 40px;
+        gap: 10px;
+        height: 400px;
+}
+    .azulclaro{
+        background-color: aqua;
+        height: 130px;
+      
+        
+    }
+    .rojo{
+        background-color: #7d0909;
+        color: white;
+        text-align: center;
+        line-height: 2.5;
+        padding: 10px;
+        margin-top: 60px;
+    }
+    .azulultimo{
+        background-color: rgb(15, 15, 99);
+        color: white;
+        text-align: center;
+        line-height: 2.5;
+        padding: 10px;
+    }
